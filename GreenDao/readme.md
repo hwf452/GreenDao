@@ -1,5 +1,3 @@
-# GreenDao
-android sqlite GreenDao
 GreenDao使用总结
 
 在Android开发过程中，有时候我们需要使用SQLite数据库去本地存储一些临时文件，之前，我们的做法是通过SQLiteOpenHelper实现创建数据库，
